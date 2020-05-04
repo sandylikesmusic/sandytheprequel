@@ -1,0 +1,497 @@
+{
+  "settings": {
+    "name": "sandy",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": [
+        "#076fc9",
+        "#295a84",
+        "#0c5695",
+        "#f50707",
+        "#314b61",
+        "#7e808e",
+        "#546675"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.9.3",
+    "siteFonts": [],
+    "uniqCompNum": 27,
+    "versionPublish": "4.9.3"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header1-2\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#slider-3\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#form2-e\">Contact</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sandy-2-156x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SANDY</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-j",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-5768-2000x1904.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fed5c5",
+            "overlayOpacity": "0.2"
+          },
+          "title": "SANDY",
+          "text": "This is the story of an endearing character on the autistic spectrum.<br>Only one thing resonates with him, and that one thing is music.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://www.youtube.com/channel/UCNxT9Hehw9knujjRZwxImUg/videos?view_as=subscriber\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#slider-3\" data-toolbar=\"-mbrBtnMove\">Learn more</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-2",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "text-align": "center",
+              "font-size": "100px"
+            },
+            "P": {
+              "color": "#fbfbfb",
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "text": "<p><br></p><p><br></p><p>Sandy is an Autistic Savant, meaning he has a natural skill and obsession with music. He&nbsp;<span style=\"font-size: 1.25rem;\">simply lives and breathes music, understands it and lets it dictate his life. His instrument of&nbsp;</span><span style=\"font-size: 1.25rem;\">choice is the piano. Music flows&nbsp;</span><span style=\"font-size: 1.25rem;\">through him, but expressing this and being taken seriously is something that weighs heavily&nbsp;</span><span style=\"font-size: 1.25rem;\">on his shoulders.</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-7",
+          "_styles": {
+            "P": {
+              "color": "#0c5695",
+              "text-align": "center",
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+            }
+          }
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/captura-de-pantalla-2020-05-03-a-las-18.42.05-900x608.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "‘Cheek to cheek’",
+                "contentAlign": "left",
+                "text": "One of Sandy's favourite tune! By Louis Armstrong and Ella Fitzgerald. <br>\"He sways to the music, smiling to himself and subtly mouthing the lyrics out, loving every<br>second of it.\"",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
+                "overlay": true,
+                "overlayOpacity": "0.4",
+                "overlayColor": "#7e808e"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/pexels-photo-3007347-1000x667.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "Sandy's job",
+                "contentAlign": "right",
+                "text": "Sandy works at Kelly's, a records store in Cardiff city center, He loves playing records and singing and dancing to them as he workds. That's what makes him happy.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "overlayColor": "#0c5695"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/captura-de-pantalla-2020-05-03-a-las-18.45.40-1934x1164.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "Sandy's concern",
+                "contentAlign": "center",
+                "text": "He's so attached to the records he plays in the store that he hates<br>selling those to the store's customers.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
+                "overlay": true,
+                "overlayOpacity": "0.1",
+                "overlayColor": "#9c0606"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-3",
+          "_styles": {
+            "H2": {
+              "text-align": "left",
+              "color": "#831a08"
+            },
+            "P": {
+              "text-align": "left",
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/photo-13.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/LI1MHYcXaKA",
+              "autoplay": "on",
+              "loop": "on"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-m"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/6k4UI5AdAWE?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/6k4UI5AdAWE",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#f50707",
+            "overlayOpacity": "0.2"
+          },
+          "title": "Kelly's",
+          "caption": "SANDY<div>\"Ex… Excuse me! Are you planning on buying that record?\"</div><div>LADY</div><div>\"Oh, yes! I love Sinatra, it reminds me of my father!\"</div><div><br></div><div>Sandy forces a smile, trying not to give away his discomfort as he does not want her to</div><div>take away one of his favorite records as he then won’t be able to play it in the store.</div>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-5",
+          "_styles": {
+            "DIV": {
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/0d7ab88c-dac4-430b-88b5-9cceed4eea4d-2000x1242.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0d7ab88c-dac4-430b-88b5-9cceed4eea4d-2000x1242-800x497.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-526-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-526-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-514-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-514-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7103-1329x750.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7103-1329x750-800x451.jpg",
+                "alt": "",
+                "title": "",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-q"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/photo-13.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/2uepMVVcaF8",
+              "autoplay": "on",
+              "loop": "on"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-p"
+        },
+        {
+          "_params": {
+            "token": "30777662452.727bfe1.e11deb5538dc47a1949f57786d798bbc",
+            "showTitle": true,
+            "layoutGridRadio": true,
+            "imagesPerRowGrid": 4,
+            "rows": 2,
+            "showMoreButton": true,
+            "layoutSliderRadio": false,
+            "imagesPerRowSlider": 4,
+            "spacing": 5,
+            "fullWidth": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColorRadio": false,
+            "bgColor": "#fafafa",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo-2796145-1000x1332.jpg",
+            "overlay": false,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.6
+          },
+          "title": "<a href=\"https://www.instagram.com/sandylikesmusic/?hl=es\" target=\"_blank\">Sandy's Instagram Feed</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-4\" href=\"#\" data-max-id=\"2222828977402934608_483398875\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
+          "display2": "display-2",
+          "display4": "display-4",
+          "alias": "instagram-feed",
+          "_tags": [
+            "Extensión"
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-a",
+          "_styles": {
+            ".inst__title": {
+              "color": "#f1c050"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/photo-13.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/y5fa8c8Dz7M",
+              "autoplay": "on",
+              "loop": "on"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-n"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#831a08",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Get access to exclusive content!",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Subscribe</a>",
+          "form": {
+            "action": "sandylikesmusic@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter your email address..."
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-e",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#076fc9",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Follow Sandy on social media!",
+          "icons": "  <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-google\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-i",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "left",
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020 SANDY. <a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-c"
+        }
+      ]
+    }
+  }
+}
